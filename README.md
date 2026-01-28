@@ -1,28 +1,174 @@
-<h1 align="center">Hi 👋, I'm Kamlesh Sahu</h1>
-<h3 align="center">A passionate Java Full Stack developer And MERN Stack Developer from India</h3>
-<img src="https://wallpaperaccess.com/full/8901754.png" alt="" width="300px" align="right">
-<img src="https://tse3.mm.bing.net/th/id/OIP.IBoPzgI7K2WQprGKT91PFgHaEq?pid=Api&P=0&h=180" alt="" width="300px" align="right">
-- 🌱 I’m currently learning **Java full stack**
+<h1 align="center">Hi there👋, I'm Kamlesh Sahu</h1>
 
-- 👨‍💻 All of my projects are available at [kamleshsahu07](kamleshsahu07)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7F5&center=true&vCenter=true&width=535&lines=Full+Stack+Web+Developer;Java+Programmer;Lifelong+Learner+%7C+Hackathon+Lover" alt="Typing SVG" />
+  </a>
+</p>
 
-- 💬 Ask me about **Java, SQL, MERN Stack**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</p>
 
-- 📫 How to reach me **@kamleshsahu66268@gmail.com**
+<h3 align="center">A Passionate Full Stack Developer & CSE Undergrad</h3>
+
+---
+
+### About Me
+
+- 🔭 I am a passionate and curious developer with a strong interest in **Full Stack Web Development** and building solutions that make a meaningful impact.
+- Currently I m learning Java full Stack
+- 🤝 I’m open to collaborating on **hackathons** and projects that aim to solve real-world challenges through technology.
+- 💬 Ask me about **MERN Stack, Next.js, MongoDB, SQL, and Java**
+- 👤 Pronouns: **He/Him**
+- 📫 You can reach me from **kamleshsahu66268@gmail.com**
+
+
+ 🌐 <a href="https://portfolio-5t6n.onrender.com" target="_blank"><b>Visit My Portfolio</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamlesh sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamlesh sahu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kamlesh_sahu_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamlesh_sahu_07" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pratham-potdar" height="30" width="40" /></a>
+  <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="PrathamPotdar" height="30" width="40" /></a>
+  <a href="" target="_blank">
+  <img align="center" src="" alt="X" height="30" width="40" />
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<br/>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL
+    </td>
+  </tr>
+</table>
 
 
-[![](https://visitcount.itsvg.in/api?id=kamleshsahu07&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🌐 Frontend
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40"/><br>Tailwind CSS
+    </td>
+  </tr>
+</table>
+
+
+### ⚙️ Backend
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring Boot
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+    </td>
+  </tr>
+</table>
+
+
+### 🧩 Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring Boot
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" width="40"/><br>Express.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
+    </td>
+  </tr>
+</table>
+
+
+### 🚀 Deployment & Tools
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU" width="40"/><br>GitHub
+    </td>
+      <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
+    </td>
+  </tr>
+</table>
+
+
+### 🛠️IDEs & Design
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40"/><br>VS Code
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamleshsahu07&show_icons=true&theme=radical&count_private=true" alt="Kamlesh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshsahu07&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshsahu07&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+
+
+
+
+---
