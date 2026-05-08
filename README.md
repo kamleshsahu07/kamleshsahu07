@@ -24,12 +24,12 @@
 - 📫 You can reach me from **kamleshsahu66268@gmail.com**
 
 
- 🌐 <a href="https://portfolio-5t6n.onrender.com" target="_blank"><b>Visit My Portfolio</b></a>
+ 🌐 <a href="https://k-portfolio-h2qk.onrender.com" target="_blank"><b>Visit My Portfolio</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pratham-potdar" height="30" width="40" /></a>
-  <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="PrathamPotdar" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kamlesh-Sahu" height="30" width="40" /></a>
+  <a href="" alt="Kamlesh" height="30" width="40" /></a>
   <a href="" target="_blank">
   <img align="center" src="" alt="X" height="30" width="40" />
 </a>
